@@ -238,8 +238,8 @@
     font-weight: 13px;
     border-radius:20px;
     transition:background 0.5s, transform 0.5s;
-    box-shadow: 1px 1px 20px #012290f7,
-                1px 1px 40px #0053b8f7
+    box-shadow: 1px 1px 20px #0ef,
+                1px 1px 20px cyan
   }
   .services-list div i{
 
